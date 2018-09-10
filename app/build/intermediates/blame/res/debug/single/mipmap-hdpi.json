@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

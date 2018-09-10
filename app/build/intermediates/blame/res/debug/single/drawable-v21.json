@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/macbook/.android/build-cache/7bb5059bf30cb1fe746887232b95b3d90a6b85eb/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/macbook/.android/build-cache/7bb5059bf30cb1fe746887232b95b3d90a6b85eb/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/macbook/.android/build-cache/7bb5059bf30cb1fe746887232b95b3d90a6b85eb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/macbook/.android/build-cache/7bb5059bf30cb1fe746887232b95b3d90a6b85eb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

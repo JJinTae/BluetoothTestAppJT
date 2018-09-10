@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/macbook/.android/build-cache/7bb5059bf30cb1fe746887232b95b3d90a6b85eb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/macbook/.android/build-cache/7bb5059bf30cb1fe746887232b95b3d90a6b85eb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
