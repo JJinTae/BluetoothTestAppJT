@@ -3404,12 +3404,12 @@
                 "from": {
                     "file": "/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/src/main/res/values/styles.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 54,
-                        "endLine": 6,
+                        "startOffset": 53,
+                        "endLine": 5,
                         "endColumn": 12,
-                        "endOffset": 235
+                        "endOffset": 234
                     }
                 }
             },

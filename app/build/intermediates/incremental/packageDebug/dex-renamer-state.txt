@@ -1,4 +1,4 @@
-#Mon Sep 10 22:12:36 KST 2018
+#Mon Sep 10 23:06:45 KST 2018
 base.0=/Users/macbook/Desktop/programmingfile/android/BluetoothTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f8664ed0ee9c37a6a5b7dced872a05ec0b04c145
 renamed.1=classes.dex
 renamed.0=classes2.dex
